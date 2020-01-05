@@ -22,7 +22,7 @@ var giphy = {
     url: 'https://api.giphy.com/v1/gifs/trending',
     query: {
         api_key: 'SSFyHDn3MWMIm5NBU6NN4Gzq77YyjuPZ',
-        limit: 30
+        limit: 10
     }
 };
 
